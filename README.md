@@ -1,4 +1,9 @@
-#  I am Sen Sity a Level 200 student of UCC
+#  PYTHON BASIC MINI PROJECTS
 
 
-## Hello Data Influencers @ Digicapgh(UCC)
+## GUESS_NUMBER_GAME
+## ADVANCE CALCULATOR
+## NUMPY AND PANDAS
+## POUNDS_TO_KILOGRAMS
+## FIBONACCI_SERIES
+
